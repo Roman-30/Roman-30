@@ -13,7 +13,7 @@
 </h1>
   </div>
   
-  :woman_technologist: About Me :
+  :woman_technologist: About Me : d=)
   
   
   ---
@@ -27,7 +27,19 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
 </div>
 
-<div>
- [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roman-30&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)   
-  (https://git.io/streak-stats)
+---
+
+<div align="center">
+  :fire: My Stats :fire:
+  </div>
+  <div align="center">
+  
+  <div>
+    <h1>
+      ---
+    </h1>
+  </div>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roman-30&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  
   </div>
